@@ -1466,7 +1466,7 @@ regenmaschine==2022.09.1
 renault-api==0.1.11
 
 # homeassistant.components.python_script
-restrictedpython==5.2
+restrictedpython==5.3
 
 # homeassistant.components.rflink
 rflink==0.0.63
